@@ -1,0 +1,47 @@
+version: "3.8"
+
+services:
+  # --- Database-Side: PostgreSQL ---
+  db:
+    image: postgres:15-alpine
+    container_name: smc-postgres
+    restart: always
+    environment:
+      POSTGRES_USER: smc_user
+      POSTGRES_PASSWORD: smc_password
+      POSTGRES_DB: search_method_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - smc-network
+
+  # --- Service-Side: Elasticsearch ---
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+    container_name: smc-elasticsearch
+    restart: always
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false # 實驗環境建議關閉，簡化開發
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    networks:
+      - smc-network
+
+networks:
+  smc-network:
+    driver: bridge
+
+volumes:
+  pgdata:
+  esdata:
