@@ -24,7 +24,7 @@ services:
     restart: always
     environment:
       - discovery.type=single-node
-      - xpack.security.enabled=false # 實驗環境建議關閉，簡化開發
+      - xpack.security.enabled=false
       - bootstrap.memory_lock=true
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
     ulimits:
@@ -35,6 +35,7 @@ services:
       - "9200:9200"
     volumes:
       - esdata:/usr/share/elasticsearch/data
+      - ./es-plugins:/usr/share/elasticsearch/plugins # 掛載插件目錄
     networks:
       - smc-network
 
