@@ -52,7 +52,7 @@ def process_dict():
     # 初始化環境與 Client
     load_env_variables(key_name)
     client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
-    model_id = "gemini-flash-lite-latest"
+    model_id = "gemini-2.5-flash-lite"
 
     base_path = Path(__file__).parent
 
@@ -144,7 +144,7 @@ OTH (日常生活)：无法归入上述领域、通用的日常生活用品（�
   }
 ]
 """
-    batch_size = 30
+    batch_size = 20
 
     # 5. 批次執行
     for i in range(start_index, len(lines), batch_size):
