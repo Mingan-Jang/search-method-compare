@@ -6,9 +6,7 @@
     "hkmc": "梅家塢",
     "sg": "梅家坞",
     "my": "梅家坞",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅寧華",
@@ -17,10 +15,7 @@
     "hkmc": "梅寧華",
     "sg": "梅宁华",
     "my": "梅宁华",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅寧迪",
@@ -29,10 +24,7 @@
     "hkmc": "梅寧迪",
     "sg": "梅宁迪",
     "my": "梅宁迪",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅小惠",
@@ -41,9 +33,7 @@
     "hkmc": "梅小惠",
     "sg": "梅小惠",
     "my": "梅小惠",
-    "cates": [
-      "ENT"
-    ]
+    "cates": ["ENT"]
   },
   {
     "original": "梅尔克特",
@@ -52,10 +42,7 @@
     "hkmc": "梅爾克特",
     "sg": "梅尔克特",
     "my": "梅尔克特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔卡",
@@ -64,10 +51,7 @@
     "hkmc": "梅爾卡",
     "sg": "梅尔卡",
     "my": "梅尔卡",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔夫",
@@ -76,10 +60,7 @@
     "hkmc": "梅爾夫",
     "sg": "梅尔夫",
     "my": "梅尔夫",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔夫人",
@@ -88,10 +69,7 @@
     "hkmc": "梅爾夫人",
     "sg": "梅尔夫人",
     "my": "梅尔夫人",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔希",
@@ -100,10 +78,7 @@
     "hkmc": "梅爾希",
     "sg": "梅尔希",
     "my": "梅尔希",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔斯",
@@ -112,10 +87,7 @@
     "hkmc": "梅爾斯",
     "sg": "梅尔斯",
     "my": "梅尔斯",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔泽",
@@ -124,10 +96,7 @@
     "hkmc": "梅爾澤",
     "sg": "梅尔泽",
     "my": "梅尔泽",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔特",
@@ -136,10 +105,7 @@
     "hkmc": "梅爾特",
     "sg": "梅尔特",
     "my": "梅尔特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔策",
@@ -148,10 +114,7 @@
     "hkmc": "梅爾策",
     "sg": "梅尔策",
     "my": "梅尔策",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔胜",
@@ -160,10 +123,7 @@
     "hkmc": "梅爾勝",
     "sg": "梅尔胜",
     "my": "梅尔胜",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔色多",
@@ -172,10 +132,7 @@
     "hkmc": "梅爾色多",
     "sg": "梅尔色多",
     "my": "梅尔色多",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尔辛",
@@ -184,10 +141,7 @@
     "hkmc": "梅爾辛",
     "sg": "梅尔辛",
     "my": "梅尔辛",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅尧臣",
@@ -196,10 +150,7 @@
     "hkmc": "梅堯臣",
     "sg": "梅尧臣",
     "my": "梅尧臣",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梅尼埃",
@@ -208,10 +159,7 @@
     "hkmc": "梅尼埃",
     "sg": "梅尼埃",
     "my": "梅尼埃",
-    "cates": [
-      "MED",
-      "HIS"
-    ]
+    "cates": ["MED", "HIS"]
   },
   {
     "original": "梅尼格",
@@ -220,10 +168,7 @@
     "hkmc": "梅尼格",
     "sg": "梅尼格",
     "my": "梅尼格",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅屋",
@@ -232,10 +177,7 @@
     "hkmc": "梅屋",
     "sg": "梅屋",
     "my": "梅屋",
-    "cates": [
-      "LOC",
-      "ENT"
-    ]
+    "cates": ["LOC", "ENT"]
   },
   {
     "original": "梅山",
@@ -244,10 +186,7 @@
     "hkmc": "梅山",
     "sg": "梅山",
     "my": "梅山",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅山水库",
@@ -256,10 +195,7 @@
     "hkmc": "梅山水庫",
     "sg": "梅山水库",
     "my": "梅山水库",
-    "cates": [
-      "LOC",
-      "IND"
-    ]
+    "cates": ["LOC", "IND"]
   },
   {
     "original": "梅山水庫",
@@ -268,10 +204,7 @@
     "hkmc": "梅山水庫",
     "sg": "梅山水库",
     "my": "梅山水库",
-    "cates": [
-      "LOC",
-      "IND"
-    ]
+    "cates": ["LOC", "IND"]
   },
   {
     "original": "梅山鎮",
@@ -280,10 +213,7 @@
     "hkmc": "梅山鎮",
     "sg": "梅山镇",
     "my": "梅山镇",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅山镇",
@@ -292,10 +222,7 @@
     "hkmc": "梅山鎮",
     "sg": "梅山镇",
     "my": "梅山镇",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅岭山",
@@ -304,10 +231,7 @@
     "hkmc": "梅嶺山",
     "sg": "梅岭山",
     "my": "梅岭山",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅嶺山",
@@ -316,10 +240,7 @@
     "hkmc": "梅嶺山",
     "sg": "梅岭山",
     "my": "梅岭山",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅州",
@@ -328,10 +249,7 @@
     "hkmc": "梅州",
     "sg": "梅州",
     "my": "梅州",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅州市",
@@ -340,10 +258,7 @@
     "hkmc": "梅州市",
     "sg": "梅州市",
     "my": "梅州市",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅州日報",
@@ -352,10 +267,7 @@
     "hkmc": "梅州日報",
     "sg": "梅州日报",
     "my": "梅州日报",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅州日报",
@@ -364,10 +276,7 @@
     "hkmc": "梅州日報",
     "sg": "梅州日报",
     "my": "梅州日报",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅州網",
@@ -376,10 +285,7 @@
     "hkmc": "梅州網",
     "sg": "梅州网",
     "my": "梅州网",
-    "cates": [
-      "DIG",
-      "LOC"
-    ]
+    "cates": ["DIG", "LOC"]
   },
   {
     "original": "梅州网",
@@ -388,10 +294,7 @@
     "hkmc": "梅州網",
     "sg": "梅州网",
     "my": "梅州网",
-    "cates": [
-      "DIG",
-      "LOC"
-    ]
+    "cates": ["DIG", "LOC"]
   },
   {
     "original": "梅州金柚",
@@ -400,10 +303,7 @@
     "hkmc": "梅州金柚",
     "sg": "梅州金柚",
     "my": "梅州金柚",
-    "cates": [
-      "FOO",
-      "LOC"
-    ]
+    "cates": ["FOO", "LOC"]
   },
   {
     "original": "梅巧玲",
@@ -412,10 +312,7 @@
     "hkmc": "梅巧玲",
     "sg": "梅巧玲",
     "my": "梅巧玲",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅帅元",
@@ -424,10 +321,7 @@
     "hkmc": "梅帥元",
     "sg": "梅帅元",
     "my": "梅帅元",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅师伯",
@@ -436,10 +330,7 @@
     "hkmc": "梅師伯",
     "sg": "梅师伯",
     "my": "梅师伯",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅师姊",
@@ -448,10 +339,7 @@
     "hkmc": "梅師姊",
     "sg": "梅师姊",
     "my": "梅师姊",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅帥元",
@@ -460,10 +348,7 @@
     "hkmc": "梅帥元",
     "sg": "梅帅元",
     "my": "梅帅元",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅師伯",
@@ -472,10 +357,7 @@
     "hkmc": "梅師伯",
     "sg": "梅师伯",
     "my": "梅师伯",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅師姊",
@@ -484,10 +366,7 @@
     "hkmc": "梅師姐",
     "sg": "梅师姐",
     "my": "梅师姐",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅帮主",
@@ -496,10 +375,7 @@
     "hkmc": "梅幫主",
     "sg": "梅帮主",
     "my": "梅帮主",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅幫主",
@@ -508,10 +384,7 @@
     "hkmc": "梅幫主",
     "sg": "梅帮主",
     "my": "梅帮主",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅干菜",
@@ -520,10 +393,7 @@
     "hkmc": "梅乾菜",
     "sg": "梅干菜",
     "my": "梅干菜",
-    "cates": [
-      "FOO",
-      "OTH"
-    ]
+    "cates": ["FOO", "OTH"]
   },
   {
     "original": "梅平原",
@@ -532,10 +402,7 @@
     "hkmc": "梅平原",
     "sg": "梅平原",
     "my": "梅平原",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅庄中",
@@ -544,10 +411,7 @@
     "hkmc": "梅莊中",
     "sg": "梅庄中",
     "my": "梅庄中",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅开二度",
@@ -556,10 +420,7 @@
     "hkmc": "梅開二度",
     "sg": "梅开二度",
     "my": "梅开二度",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梅开江",
@@ -568,10 +429,7 @@
     "hkmc": "梅開江",
     "sg": "梅开江",
     "my": "梅开江",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅念笙",
@@ -580,10 +438,7 @@
     "hkmc": "梅念笙",
     "sg": "梅念笙",
     "my": "梅念笙",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅思平",
@@ -592,10 +447,7 @@
     "hkmc": "梅思平",
     "sg": "梅思平",
     "my": "梅思平",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅拉",
@@ -604,10 +456,7 @@
     "hkmc": "梅拉",
     "sg": "梅拉",
     "my": "梅拉",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅拉伦湖",
@@ -616,10 +465,7 @@
     "hkmc": "梅拉倫湖",
     "sg": "梅拉伦湖",
     "my": "梅拉伦湖",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅拉倫湖",
@@ -628,10 +474,7 @@
     "hkmc": "梅拉倫湖",
     "sg": "梅拉伦湖",
     "my": "梅拉伦湖",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅拉拉",
@@ -640,10 +483,7 @@
     "hkmc": "梅拉拉",
     "sg": "梅拉拉",
     "my": "梅拉拉",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅拉腊",
@@ -652,10 +492,7 @@
     "hkmc": "梅拉臘",
     "sg": "梅拉腊",
     "my": "梅拉腊",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅拉臘",
@@ -664,10 +501,7 @@
     "hkmc": "梅拉臘",
     "sg": "梅拉腊",
     "my": "梅拉腊",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅敏仪",
@@ -676,10 +510,7 @@
     "hkmc": "梅敏儀",
     "sg": "梅敏仪",
     "my": "梅敏仪",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅敏儀",
@@ -688,10 +519,7 @@
     "hkmc": "梅敏儀",
     "sg": "梅敏仪",
     "my": "梅敏仪",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅文馨",
@@ -700,10 +528,7 @@
     "hkmc": "梅文馨",
     "sg": "梅文馨",
     "my": "梅文馨",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅文鼎",
@@ -712,10 +537,7 @@
     "hkmc": "梅文鼎",
     "sg": "梅文鼎",
     "my": "梅文鼎",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅斯",
@@ -724,9 +546,7 @@
     "hkmc": "梅斯",
     "sg": "梅斯",
     "my": "梅斯",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅斯基",
@@ -735,9 +555,7 @@
     "hkmc": "梅斯基",
     "sg": "梅斯基",
     "my": "梅斯基",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅斯托",
@@ -746,9 +564,7 @@
     "hkmc": "梅斯托",
     "sg": "梅斯托",
     "my": "梅斯托",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅斯蒂",
@@ -757,9 +573,7 @@
     "hkmc": "梅斯蒂",
     "sg": "梅斯蒂",
     "my": "梅斯蒂",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅新育",
@@ -768,9 +582,7 @@
     "hkmc": "梅新育",
     "sg": "梅新育",
     "my": "梅新育",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅明根",
@@ -779,9 +591,7 @@
     "hkmc": "梅明根",
     "sg": "梅明根",
     "my": "梅明根",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅曾亮",
@@ -790,9 +600,7 @@
     "hkmc": "梅曾亮",
     "sg": "梅曾亮",
     "my": "梅曾亮",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅朗中",
@@ -801,9 +609,7 @@
     "hkmc": "梅朗中",
     "sg": "梅朗中",
     "my": "梅朗中",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅杜萨",
@@ -812,10 +618,7 @@
     "hkmc": "梅杜莎",
     "sg": "梅杜萨",
     "my": "梅杜萨",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅杜薩",
@@ -824,10 +627,7 @@
     "hkmc": "梅杜莎",
     "sg": "梅杜萨",
     "my": "梅杜萨",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅東益",
@@ -836,9 +636,7 @@
     "hkmc": "梅東益",
     "sg": "梅东益",
     "my": "梅东益",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅林",
@@ -847,9 +645,7 @@
     "hkmc": "梅林",
     "sg": "梅林",
     "my": "梅林",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅林变换",
@@ -858,10 +654,7 @@
     "hkmc": "梅林變換",
     "sg": "梅林变换",
     "my": "梅林变换",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "梅林變換",
@@ -870,10 +663,7 @@
     "hkmc": "梅林變換",
     "sg": "梅林变换",
     "my": "梅林变换",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "梅林路",
@@ -882,9 +672,7 @@
     "hkmc": "梅林路",
     "sg": "梅林路",
     "my": "梅林路",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅林达",
@@ -893,9 +681,7 @@
     "hkmc": "梅林達",
     "sg": "梅林达",
     "my": "梅林达",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅林達",
@@ -904,9 +690,7 @@
     "hkmc": "梅林達",
     "sg": "梅林达",
     "my": "梅林达",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅树",
@@ -915,10 +699,7 @@
     "hkmc": "梅樹",
     "sg": "梅树",
     "my": "梅树",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅树姿",
@@ -927,9 +708,7 @@
     "hkmc": "梅樹姿",
     "sg": "梅树姿",
     "my": "梅树姿",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梅树村",
@@ -938,9 +717,7 @@
     "hkmc": "梅樹村",
     "sg": "梅树村",
     "my": "梅树村",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅核气",
@@ -949,10 +726,7 @@
     "hkmc": "梅核氣",
     "sg": "梅核气",
     "my": "梅核气",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梅核氣",
@@ -961,10 +735,7 @@
     "hkmc": "梅核氣",
     "sg": "梅核气",
     "my": "梅核气",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梅格納",
@@ -973,10 +744,7 @@
     "hkmc": "梅格納",
     "sg": "梅格纳",
     "my": "梅格纳",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅格纳",
@@ -985,10 +753,7 @@
     "hkmc": "梅格納",
     "sg": "梅格纳",
     "my": "梅格纳",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅似",
@@ -997,10 +762,7 @@
     "hkmc": "梅梅似",
     "sg": "梅梅似",
     "my": "梅梅似",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅依然",
@@ -1009,10 +771,7 @@
     "hkmc": "梅梅依然",
     "sg": "梅梅依然",
     "my": "梅梅依然",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅划",
@@ -1021,10 +780,7 @@
     "hkmc": "梅梅劃",
     "sg": "梅梅划",
     "my": "梅梅划",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅劃",
@@ -1033,10 +789,7 @@
     "hkmc": "梅梅劃",
     "sg": "梅梅划",
     "my": "梅梅划",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅尔",
@@ -1045,10 +798,7 @@
     "hkmc": "梅梅爾",
     "sg": "梅梅尔",
     "my": "梅梅尔",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅止",
@@ -1057,10 +807,7 @@
     "hkmc": "梅梅止",
     "sg": "梅梅止",
     "my": "梅梅止",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅正",
@@ -1069,10 +816,7 @@
     "hkmc": "梅梅正",
     "sg": "梅梅正",
     "my": "梅梅正",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅梅爾",
@@ -1081,10 +825,7 @@
     "hkmc": "梅梅爾",
     "sg": "梅梅尔",
     "my": "梅梅尔",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅森",
@@ -1093,10 +834,7 @@
     "hkmc": "梅森",
     "sg": "梅森",
     "my": "梅森",
-    "cates": [
-      "OTH",
-      "ENT"
-    ]
+    "cates": ["OTH", "ENT"]
   },
   {
     "original": "梅森数",
@@ -1105,10 +843,7 @@
     "hkmc": "梅森數",
     "sg": "梅森数",
     "my": "梅森数",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅森數",
@@ -1117,10 +852,7 @@
     "hkmc": "梅森數",
     "sg": "梅森数",
     "my": "梅森数",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅树",
@@ -1129,10 +861,7 @@
     "hkmc": "梅樹",
     "sg": "梅树",
     "my": "梅树",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梅树姿",
@@ -1141,10 +870,7 @@
     "hkmc": "梅樹姿",
     "sg": "梅树姿",
     "my": "梅树姿",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅树村",
@@ -1153,10 +879,7 @@
     "hkmc": "梅樹村",
     "sg": "梅树村",
     "my": "梅树村",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅毒",
@@ -1165,10 +888,7 @@
     "hkmc": "梅毒",
     "sg": "梅毒",
     "my": "梅毒",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梅氏",
@@ -1177,10 +897,7 @@
     "hkmc": "梅氏",
     "sg": "梅氏",
     "my": "梅氏",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅氏犀",
@@ -1189,10 +906,7 @@
     "hkmc": "梅氏犀",
     "sg": "梅氏犀",
     "my": "梅氏犀",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅永紅",
@@ -1201,10 +915,7 @@
     "hkmc": "梅永紅",
     "sg": "梅永红",
     "my": "梅永红",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅永红",
@@ -1213,10 +924,7 @@
     "hkmc": "梅永紅",
     "sg": "梅永红",
     "my": "梅永红",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅江",
@@ -1225,10 +933,7 @@
     "hkmc": "梅江",
     "sg": "梅江",
     "my": "梅江",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅江区",
@@ -1237,10 +942,7 @@
     "hkmc": "梅江區",
     "sg": "梅江区",
     "my": "梅江区",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅江區",
@@ -1249,10 +951,7 @@
     "hkmc": "梅江區",
     "sg": "梅江区",
     "my": "梅江区",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅江河",
@@ -1261,10 +960,7 @@
     "hkmc": "梅江河",
     "sg": "梅江河",
     "my": "梅江河",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅江鎮",
@@ -1273,10 +969,7 @@
     "hkmc": "梅江鎮",
     "sg": "梅江镇",
     "my": "梅江镇",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅江镇",
@@ -1285,10 +978,7 @@
     "hkmc": "梅江鎮",
     "sg": "梅江镇",
     "my": "梅江镇",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅沟营",
@@ -1297,10 +987,7 @@
     "hkmc": "梅溝營",
     "sg": "梅沟营",
     "my": "梅沟营",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅河口",
@@ -1309,10 +996,7 @@
     "hkmc": "梅河口",
     "sg": "梅河口",
     "my": "梅河口",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅河口市",
@@ -1321,10 +1005,7 @@
     "hkmc": "梅河口市",
     "sg": "梅河口市",
     "my": "梅河口市",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅洛",
@@ -1333,10 +1014,7 @@
     "hkmc": "梅洛",
     "sg": "梅洛",
     "my": "梅洛",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅津美",
@@ -1345,10 +1023,7 @@
     "hkmc": "梅津美",
     "sg": "梅津美",
     "my": "梅津美",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅派",
@@ -1357,10 +1032,7 @@
     "hkmc": "梅派",
     "sg": "梅派",
     "my": "梅派",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅济耶",
@@ -1369,10 +1041,7 @@
     "hkmc": "梅濟耶",
     "sg": "梅济耶",
     "my": "梅济耶",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅涅斯",
@@ -1381,10 +1050,7 @@
     "hkmc": "梅涅斯",
     "sg": "梅涅斯",
     "my": "梅涅斯",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅港",
@@ -1393,10 +1059,7 @@
     "hkmc": "梅港",
     "sg": "梅港",
     "my": "梅港",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅溝營",
@@ -1405,10 +1068,7 @@
     "hkmc": "梅溝營",
     "sg": "梅沟营",
     "my": "梅沟营",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅濟耶",
@@ -1417,10 +1077,7 @@
     "hkmc": "梅濟耶",
     "sg": "梅济耶",
     "my": "梅济耶",
-    "cates": [
-      "OTH",
-      "LOC"
-    ]
+    "cates": ["OTH", "LOC"]
   },
   {
     "original": "梅爾克特",
@@ -1429,10 +1086,7 @@
     "hkmc": "梅爾克特",
     "sg": "梅尔克特",
     "my": "梅尔克特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾勝",
@@ -1441,10 +1095,7 @@
     "hkmc": "梅爾勝",
     "sg": "梅尔胜",
     "my": "梅尔胜",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾卡",
@@ -1453,10 +1104,7 @@
     "hkmc": "梅爾卡",
     "sg": "梅尔卡",
     "my": "梅尔卡",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾夫",
@@ -1465,10 +1113,7 @@
     "hkmc": "梅爾夫",
     "sg": "梅尔夫",
     "my": "梅尔夫",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾夫人",
@@ -1477,11 +1122,7 @@
     "hkmc": "梅爾夫人",
     "sg": "梅尔夫人",
     "my": "梅尔夫人",
-    "cates": [
-      "ENT",
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["ENT", "HIS", "OTH"]
   },
   {
     "original": "梅爾希",
@@ -1490,10 +1131,7 @@
     "hkmc": "梅爾希",
     "sg": "梅尔希",
     "my": "梅尔希",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾斯",
@@ -1502,10 +1140,7 @@
     "hkmc": "梅爾斯",
     "sg": "梅尔斯",
     "my": "梅尔斯",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾澤",
@@ -1514,10 +1149,7 @@
     "hkmc": "梅爾澤",
     "sg": "梅尔泽",
     "my": "梅尔泽",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾特",
@@ -1526,10 +1158,7 @@
     "hkmc": "梅爾特",
     "sg": "梅尔特",
     "my": "梅尔特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾策",
@@ -1538,10 +1167,7 @@
     "hkmc": "梅爾策",
     "sg": "梅尔策",
     "my": "梅尔策",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾色多",
@@ -1550,10 +1176,7 @@
     "hkmc": "梅爾色多",
     "sg": "梅尔色多",
     "my": "梅尔色多",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅爾辛",
@@ -1562,10 +1185,7 @@
     "hkmc": "梅爾辛",
     "sg": "梅尔辛",
     "my": "梅尔辛",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅特勒",
@@ -1574,10 +1194,7 @@
     "hkmc": "梅特勒",
     "sg": "梅特勒",
     "my": "梅特勒",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅特卡夫",
@@ -1586,10 +1203,7 @@
     "hkmc": "梅特卡夫",
     "sg": "梅特卡夫",
     "my": "梅特卡夫",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅特林",
@@ -1598,10 +1212,7 @@
     "hkmc": "梅特林",
     "sg": "梅特林",
     "my": "梅特林",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅特涅",
@@ -1610,10 +1221,7 @@
     "hkmc": "梅特涅",
     "sg": "梅特涅",
     "my": "梅特涅",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅特罗",
@@ -1622,11 +1230,7 @@
     "hkmc": "梅特羅",
     "sg": "梅特罗",
     "my": "梅特罗",
-    "cates": [
-      "ENT",
-      "HIS",
-      "LOC"
-    ]
+    "cates": ["ENT", "HIS", "LOC"]
   },
   {
     "original": "梅特羅",
@@ -1635,11 +1239,7 @@
     "hkmc": "梅特羅",
     "sg": "梅特罗",
     "my": "梅特罗",
-    "cates": [
-      "ENT",
-      "HIS",
-      "LOC"
-    ]
+    "cates": ["ENT", "HIS", "LOC"]
   },
   {
     "original": "梅狄儿",
@@ -1648,10 +1248,7 @@
     "hkmc": "梅狄兒",
     "sg": "梅狄儿",
     "my": "梅狄儿",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅狄兒",
@@ -1660,10 +1257,7 @@
     "hkmc": "梅狄兒",
     "sg": "梅狄儿",
     "my": "梅狄儿",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅献珍",
@@ -1672,10 +1266,7 @@
     "hkmc": "梅獻珍",
     "sg": "梅献珍",
     "my": "梅献珍",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅獻珍",
@@ -1684,10 +1275,7 @@
     "hkmc": "梅獻珍",
     "sg": "梅献珍",
     "my": "梅献珍",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅琳克",
@@ -1696,10 +1284,7 @@
     "hkmc": "梅琳克",
     "sg": "梅琳克",
     "my": "梅琳克",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅瑞狄",
@@ -1708,10 +1293,7 @@
     "hkmc": "梅瑞狄",
     "sg": "梅瑞狄",
     "my": "梅瑞狄",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅甘娜",
@@ -1720,10 +1302,7 @@
     "hkmc": "梅甘娜",
     "sg": "梅甘娜",
     "my": "梅甘娜",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅百器",
@@ -1732,10 +1311,7 @@
     "hkmc": "梅百器",
     "sg": "梅百器",
     "my": "梅百器",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅百玉",
@@ -1744,10 +1320,7 @@
     "hkmc": "梅百玉",
     "sg": "梅百玉",
     "my": "梅百玉",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅益論",
@@ -1756,10 +1329,7 @@
     "hkmc": "梅益論",
     "sg": "梅益论",
     "my": "梅益论",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅益论",
@@ -1768,10 +1338,7 @@
     "hkmc": "梅益論",
     "sg": "梅益论",
     "my": "梅益论",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅窗院",
@@ -1780,10 +1347,7 @@
     "hkmc": "梅窗院",
     "sg": "梅窗院",
     "my": "梅窗院",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅童魚",
@@ -1792,10 +1356,7 @@
     "hkmc": "梅童魚",
     "sg": "梅童鱼",
     "my": "梅童鱼",
-    "cates": [
-      "FOO",
-      "ENT"
-    ]
+    "cates": ["FOO", "ENT"]
   },
   {
     "original": "梅童鱼",
@@ -1804,10 +1365,7 @@
     "hkmc": "梅童魚",
     "sg": "梅童鱼",
     "my": "梅童鱼",
-    "cates": [
-      "FOO",
-      "ENT"
-    ]
+    "cates": ["FOO", "ENT"]
   },
   {
     "original": "梅竹图",
@@ -1816,10 +1374,7 @@
     "hkmc": "梅竹圖",
     "sg": "梅竹图",
     "my": "梅竹图",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅竹圖",
@@ -1828,10 +1383,7 @@
     "hkmc": "梅竹圖",
     "sg": "梅竹图",
     "my": "梅竹图",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅納德",
@@ -1840,10 +1392,7 @@
     "hkmc": "梅納德",
     "sg": "梅纳德",
     "my": "梅纳德",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅納特",
@@ -1852,10 +1401,7 @@
     "hkmc": "梅納特",
     "sg": "梅纳特",
     "my": "梅纳特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅紐因",
@@ -1864,10 +1410,7 @@
     "hkmc": "梅紐因",
     "sg": "梅纽因",
     "my": "梅纽因",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅索沃",
@@ -1876,10 +1419,7 @@
     "hkmc": "梅索沃",
     "sg": "梅索沃",
     "my": "梅索沃",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅縣",
@@ -1888,9 +1428,7 @@
     "hkmc": "梅縣",
     "sg": "梅县",
     "my": "梅县",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅纳德",
@@ -1899,10 +1437,7 @@
     "hkmc": "梅納德",
     "sg": "梅纳德",
     "my": "梅纳德",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅纳特",
@@ -1911,10 +1446,7 @@
     "hkmc": "梅納特",
     "sg": "梅纳特",
     "my": "梅纳特",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅纽因",
@@ -1923,10 +1455,7 @@
     "hkmc": "梅紐因",
     "sg": "梅纽因",
     "my": "梅纽因",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅翰林",
@@ -1935,10 +1464,7 @@
     "hkmc": "梅翰林",
     "sg": "梅翰林",
     "my": "梅翰林",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梅耶尔",
@@ -1947,10 +1473,7 @@
     "hkmc": "梅耶爾",
     "sg": "梅耶尔",
     "my": "梅耶尔",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅耶爾",
@@ -1959,10 +1482,7 @@
     "hkmc": "梅耶爾",
     "sg": "梅耶尔",
     "my": "梅耶尔",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅耶荷",
@@ -1971,10 +1491,7 @@
     "hkmc": "梅耶荷",
     "sg": "梅耶荷",
     "my": "梅耶荷",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅聖俞",
@@ -1983,10 +1500,7 @@
     "hkmc": "梅聖俞",
     "sg": "梅圣俞",
     "my": "梅圣俞",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梅良鳴",
@@ -1995,10 +1509,7 @@
     "hkmc": "梅良鳴",
     "sg": "梅良鸣",
     "my": "梅良鸣",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅良鸣",
@@ -2007,10 +1518,7 @@
     "hkmc": "梅良鳴",
     "sg": "梅良鸣",
     "my": "梅良鸣",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅艳芳",
@@ -2019,10 +1527,7 @@
     "hkmc": "梅艷芳",
     "sg": "梅艳芳",
     "my": "梅艳芳",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅花",
@@ -2031,10 +1536,7 @@
     "hkmc": "梅花",
     "sg": "梅花",
     "my": "梅花",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梅花三弄",
@@ -2043,10 +1545,7 @@
     "hkmc": "梅花三弄",
     "sg": "梅花三弄",
     "my": "梅花三弄",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅花奖",
@@ -2055,10 +1554,7 @@
     "hkmc": "梅花獎",
     "sg": "梅花奖",
     "my": "梅花奖",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅花山",
@@ -2067,10 +1563,7 @@
     "hkmc": "梅花山",
     "sg": "梅花山",
     "my": "梅花山",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅花拳",
@@ -2079,10 +1572,7 @@
     "hkmc": "梅花拳",
     "sg": "梅花拳",
     "my": "梅花拳",
-    "cates": [
-      "SPO",
-      "HIS"
-    ]
+    "cates": ["SPO", "HIS"]
   },
   {
     "original": "梅花桩",
@@ -2091,10 +1581,7 @@
     "hkmc": "梅花樁",
     "sg": "梅花桩",
     "my": "梅花桩",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "梅花樁",
@@ -2103,10 +1590,7 @@
     "hkmc": "梅花樁",
     "sg": "梅花桩",
     "my": "梅花桩",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "梅花獎",
@@ -2115,10 +1599,7 @@
     "hkmc": "梅花獎",
     "sg": "梅花奖",
     "my": "梅花奖",
-    "cates": [
-      "ENT",
-      "OTH"
-    ]
+    "cates": ["ENT", "OTH"]
   },
   {
     "original": "梅花節",
@@ -2127,10 +1608,7 @@
     "hkmc": "梅花節",
     "sg": "梅花节",
     "my": "梅花节",
-    "cates": [
-      "OTH",
-      "ENT"
-    ]
+    "cates": ["OTH", "ENT"]
   },
   {
     "original": "梅花节",
@@ -2139,10 +1617,7 @@
     "hkmc": "梅花節",
     "sg": "梅花节",
     "my": "梅花节",
-    "cates": [
-      "OTH",
-      "ENT"
-    ]
+    "cates": ["OTH", "ENT"]
   },
   {
     "original": "梅花詩",
@@ -2151,10 +1626,7 @@
     "hkmc": "梅花詩",
     "sg": "梅花诗",
     "my": "梅花诗",
-    "cates": [
-      "LIT",
-      "HIS"
-    ]
+    "cates": ["LIT", "HIS"]
   },
   {
     "original": "梅花诗",
@@ -2163,10 +1635,7 @@
     "hkmc": "梅花詩",
     "sg": "梅花诗",
     "my": "梅花诗",
-    "cates": [
-      "LIT",
-      "HIS"
-    ]
+    "cates": ["LIT", "HIS"]
   },
   {
     "original": "梅花針",
@@ -2175,10 +1644,7 @@
     "hkmc": "梅花針",
     "sg": "梅花针",
     "my": "梅花针",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梅花针",
@@ -2187,10 +1653,7 @@
     "hkmc": "梅花針",
     "sg": "梅花针",
     "my": "梅花针",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梅花餐",
@@ -2199,10 +1662,7 @@
     "hkmc": "梅花餐",
     "sg": "梅花餐",
     "my": "梅花餐",
-    "cates": [
-      "FOO",
-      "OTH"
-    ]
+    "cates": ["FOO", "OTH"]
   },
   {
     "original": "梅花香",
@@ -2211,10 +1671,7 @@
     "hkmc": "梅花香",
     "sg": "梅花香",
     "my": "梅花香",
-    "cates": [
-      "OTH",
-      "FOO"
-    ]
+    "cates": ["OTH", "FOO"]
   },
   {
     "original": "梅花鹿",
@@ -2223,10 +1680,7 @@
     "hkmc": "梅花鹿",
     "sg": "梅花鹿",
     "my": "梅花鹿",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅芳姑",
@@ -2235,10 +1689,7 @@
     "hkmc": "梅芳姑",
     "sg": "梅芳姑",
     "my": "梅芳姑",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅苏",
@@ -2247,10 +1698,7 @@
     "hkmc": "梅蘇",
     "sg": "梅苏",
     "my": "梅苏",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅苏拉",
@@ -2259,10 +1707,7 @@
     "hkmc": "梅蘇拉",
     "sg": "梅苏拉",
     "my": "梅苏拉",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅若华",
@@ -2271,10 +1716,7 @@
     "hkmc": "梅若華",
     "sg": "梅若华",
     "my": "梅若华",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅若華",
@@ -2283,10 +1725,7 @@
     "hkmc": "梅若華",
     "sg": "梅若华",
     "my": "梅若华",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅茨",
@@ -2295,10 +1734,7 @@
     "hkmc": "梅茨",
     "sg": "梅茨",
     "my": "梅茨",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅莊中",
@@ -2307,10 +1743,7 @@
     "hkmc": "梅莊中",
     "sg": "梅庄中",
     "my": "梅庄中",
-    "cates": [
-      "LOC",
-      "HIS"
-    ]
+    "cates": ["LOC", "HIS"]
   },
   {
     "original": "梅莱拉",
@@ -2319,10 +1752,7 @@
     "hkmc": "梅萊拉",
     "sg": "梅莱拉",
     "my": "梅莱拉",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅莱斯",
@@ -2331,10 +1761,7 @@
     "hkmc": "梅萊斯",
     "sg": "梅莱斯",
     "my": "梅莱斯",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅萊拉",
@@ -2343,10 +1770,7 @@
     "hkmc": "梅萊拉",
     "sg": "梅莱拉",
     "my": "梅莱拉",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅萊斯",
@@ -2355,10 +1779,7 @@
     "hkmc": "梅萊斯",
     "sg": "梅莱斯",
     "my": "梅莱斯",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅萨维",
@@ -2367,10 +1788,7 @@
     "hkmc": "梅薩維",
     "sg": "梅萨维",
     "my": "梅萨维",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅葆玖",
@@ -2379,10 +1797,7 @@
     "hkmc": "梅葆玖",
     "sg": "梅葆玖",
     "my": "梅葆玖",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅蒂卡尔",
@@ -2391,10 +1806,7 @@
     "hkmc": "梅蒂卡爾",
     "sg": "梅蒂卡尔",
     "my": "梅蒂卡尔",
-    "cates": [
-      "MED",
-      "LOC"
-    ]
+    "cates": ["MED", "LOC"]
   },
   {
     "original": "梅蒂卡爾",
@@ -2403,10 +1815,7 @@
     "hkmc": "梅蒂卡爾",
     "sg": "梅蒂卡尔",
     "my": "梅蒂卡尔",
-    "cates": [
-      "MED",
-      "LOC"
-    ]
+    "cates": ["MED", "LOC"]
   },
   {
     "original": "梅蕴新",
@@ -2415,10 +1824,7 @@
     "hkmc": "梅蘊新",
     "sg": "梅蕴新",
     "my": "梅蕴新",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅薩維",
@@ -2427,9 +1833,7 @@
     "hkmc": "梅薩維",
     "sg": "梅萨维",
     "my": "梅萨维",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅蘇",
@@ -2438,9 +1842,7 @@
     "hkmc": "梅蘇",
     "sg": "梅苏",
     "my": "梅苏",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅蘇拉",
@@ -2449,9 +1851,7 @@
     "hkmc": "梅蘇拉",
     "sg": "梅苏拉",
     "my": "梅苏拉",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅蘊新",
@@ -2460,10 +1860,7 @@
     "hkmc": "梅蘊新",
     "sg": "梅蕴新",
     "my": "梅蕴新",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅蘭",
@@ -2472,10 +1869,7 @@
     "hkmc": "梅蘭",
     "sg": "梅兰",
     "my": "梅兰",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅蘭日蘭",
@@ -2484,10 +1878,7 @@
     "hkmc": "梅蘭日蘭",
     "sg": "梅兰日兰",
     "my": "梅兰日兰",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅蘭竹",
@@ -2496,11 +1887,7 @@
     "hkmc": "梅蘭竹",
     "sg": "梅兰竹",
     "my": "梅兰竹",
-    "cates": [
-      "ENT",
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["ENT", "HIS", "LIT"]
   },
   {
     "original": "梅蘭竹菊",
@@ -2509,11 +1896,7 @@
     "hkmc": "梅蘭竹菊",
     "sg": "梅兰竹菊",
     "my": "梅兰竹菊",
-    "cates": [
-      "ENT",
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["ENT", "HIS", "LIT"]
   },
   {
     "original": "梅蘭芳",
@@ -2522,10 +1905,7 @@
     "hkmc": "梅蘭芳",
     "sg": "梅兰芳",
     "my": "梅兰芳",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅蘭菊",
@@ -2534,11 +1914,7 @@
     "hkmc": "梅蘭菊",
     "sg": "梅兰菊",
     "my": "梅兰菊",
-    "cates": [
-      "ENT",
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["ENT", "HIS", "LIT"]
   },
   {
     "original": "梅西亚",
@@ -2547,10 +1923,7 @@
     "hkmc": "梅西亞",
     "sg": "梅西亚",
     "my": "梅西亚",
-    "cates": [
-      "LOC",
-      "ENT"
-    ]
+    "cates": ["LOC", "ENT"]
   },
   {
     "original": "梅西亞",
@@ -2559,10 +1932,7 @@
     "hkmc": "梅西亞",
     "sg": "梅西亚",
     "my": "梅西亚",
-    "cates": [
-      "LOC",
-      "ENT"
-    ]
+    "cates": ["LOC", "ENT"]
   },
   {
     "original": "梅西昂",
@@ -2571,9 +1941,7 @@
     "hkmc": "梅西昂",
     "sg": "梅西昂",
     "my": "梅西昂",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅西村",
@@ -2582,9 +1950,7 @@
     "hkmc": "梅西村",
     "sg": "梅西村",
     "my": "梅西村",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅西格",
@@ -2593,9 +1959,7 @@
     "hkmc": "梅西格",
     "sg": "梅西格",
     "my": "梅西格",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅西纳",
@@ -2604,9 +1968,7 @@
     "hkmc": "梅西納",
     "sg": "梅西纳",
     "my": "梅西纳",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅西纳",
@@ -2615,9 +1977,7 @@
     "hkmc": "梅西納",
     "sg": "梅西纳",
     "my": "梅西纳",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅西耶",
@@ -2626,10 +1986,7 @@
     "hkmc": "梅西耶",
     "sg": "梅西耶",
     "my": "梅西耶",
-    "cates": [
-      "HIS",
-      "NAT"
-    ]
+    "cates": ["HIS", "NAT"]
   },
   {
     "original": "梅諾卡",
@@ -2638,10 +1995,7 @@
     "hkmc": "梅諾卡",
     "sg": "梅诺卡",
     "my": "梅诺卡",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅諾蒂",
@@ -2650,10 +2004,7 @@
     "hkmc": "梅諾蒂",
     "sg": "梅诺蒂",
     "my": "梅诺蒂",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅诺卡",
@@ -2662,10 +2013,7 @@
     "hkmc": "梅諾卡",
     "sg": "梅诺卡",
     "my": "梅诺卡",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅诺蒂",
@@ -2674,10 +2022,7 @@
     "hkmc": "梅諾蒂",
     "sg": "梅诺蒂",
     "my": "梅诺蒂",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅豔芳",
@@ -2686,10 +2031,7 @@
     "hkmc": "梅艷芳",
     "sg": "梅艳芳",
     "my": "梅艳芳",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅貝爾",
@@ -2698,10 +2040,7 @@
     "hkmc": "梅貝爾",
     "sg": "梅贝尔",
     "my": "梅贝尔",
-    "cates": [
-      "OTH",
-      "ENT"
-    ]
+    "cates": ["OTH", "ENT"]
   },
   {
     "original": "梅貽琦",
@@ -2710,10 +2049,7 @@
     "hkmc": "梅貽琦",
     "sg": "梅贻琦",
     "my": "梅贻琦",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅賽德",
@@ -2722,10 +2058,7 @@
     "hkmc": "梅賽德",
     "sg": "梅赛德",
     "my": "梅赛德",
-    "cates": [
-      "OTH",
-      "TRA"
-    ]
+    "cates": ["OTH", "TRA"]
   },
   {
     "original": "梅賽德斯",
@@ -2734,10 +2067,7 @@
     "hkmc": "梅賽德斯",
     "sg": "梅赛德斯",
     "my": "梅赛德斯",
-    "cates": [
-      "TRA",
-      "OTH"
-    ]
+    "cates": ["TRA", "OTH"]
   },
   {
     "original": "梅贝尔",
@@ -2746,10 +2076,7 @@
     "hkmc": "梅貝爾",
     "sg": "梅贝尔",
     "my": "梅贝尔",
-    "cates": [
-      "OTH",
-      "ENT"
-    ]
+    "cates": ["OTH", "ENT"]
   },
   {
     "original": "梅贻琦",
@@ -2758,10 +2085,7 @@
     "hkmc": "梅貽琦",
     "sg": "梅贻琦",
     "my": "梅贻琦",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅赛德",
@@ -2770,10 +2094,7 @@
     "hkmc": "梅賽德",
     "sg": "梅赛德",
     "my": "梅赛德",
-    "cates": [
-      "OTH",
-      "TRA"
-    ]
+    "cates": ["OTH", "TRA"]
   },
   {
     "original": "梅赛德斯",
@@ -2782,10 +2103,7 @@
     "hkmc": "梅賽德斯",
     "sg": "梅赛德斯",
     "my": "梅赛德斯",
-    "cates": [
-      "TRA",
-      "OTH"
-    ]
+    "cates": ["TRA", "OTH"]
   },
   {
     "original": "梅赫伦",
@@ -2794,10 +2112,7 @@
     "hkmc": "梅赫倫",
     "sg": "梅赫伦",
     "my": "梅赫伦",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅赫倫",
@@ -2806,10 +2121,7 @@
     "hkmc": "梅赫倫",
     "sg": "梅赫伦",
     "my": "梅赫伦",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅赫曼",
@@ -2818,10 +2130,7 @@
     "hkmc": "梅赫曼",
     "sg": "梅赫曼",
     "my": "梅赫曼",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅超風",
@@ -2830,10 +2139,7 @@
     "hkmc": "梅超風",
     "sg": "梅超风",
     "my": "梅超风",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅超风",
@@ -2842,10 +2148,7 @@
     "hkmc": "梅超風",
     "sg": "梅超风",
     "my": "梅超风",
-    "cates": [
-      "ENT",
-      "LIT"
-    ]
+    "cates": ["ENT", "LIT"]
   },
   {
     "original": "梅輝立",
@@ -2854,10 +2157,7 @@
     "hkmc": "梅輝立",
     "sg": "梅辉立",
     "my": "梅辉立",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅辉立",
@@ -2866,9 +2166,7 @@
     "hkmc": "梅輝立",
     "sg": "梅辉立",
     "my": "梅辉立",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅迪契",
@@ -2877,9 +2175,7 @@
     "hkmc": "梅迪契",
     "sg": "梅迪契",
     "my": "梅迪契",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅迪納",
@@ -2888,9 +2184,7 @@
     "hkmc": "梅迪納",
     "sg": "梅迪纳",
     "my": "梅迪纳",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅迪纳",
@@ -2899,9 +2193,7 @@
     "hkmc": "梅迪納",
     "sg": "梅迪纳",
     "my": "梅迪纳",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅迪西",
@@ -2910,9 +2202,7 @@
     "hkmc": "梅迪西",
     "sg": "梅迪西",
     "my": "梅迪西",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里",
@@ -2921,9 +2211,7 @@
     "hkmc": "梅里",
     "sg": "梅里",
     "my": "梅里",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里威",
@@ -2932,9 +2220,7 @@
     "hkmc": "梅里威",
     "sg": "梅里威",
     "my": "梅里威",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里愛",
@@ -2943,9 +2229,7 @@
     "hkmc": "梅里愛",
     "sg": "梅里爱",
     "my": "梅里爱",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里爱",
@@ -2954,9 +2238,7 @@
     "hkmc": "梅里愛",
     "sg": "梅里爱",
     "my": "梅里爱",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里特",
@@ -2965,9 +2247,7 @@
     "hkmc": "梅里特",
     "sg": "梅里特",
     "my": "梅里特",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里納",
@@ -2976,9 +2256,7 @@
     "hkmc": "梅里納",
     "sg": "梅里纳",
     "my": "梅里纳",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里纳",
@@ -2987,9 +2265,7 @@
     "hkmc": "梅里納",
     "sg": "梅里纳",
     "my": "梅里纳",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里美",
@@ -2998,9 +2274,7 @@
     "hkmc": "梅里美",
     "sg": "梅里美",
     "my": "梅里美",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅里达",
@@ -3009,10 +2283,7 @@
     "hkmc": "梅里達",
     "sg": "梅里达",
     "my": "梅里达",
-    "cates": [
-      "HIS",
-      "LOC"
-    ]
+    "cates": ["HIS", "LOC"]
   },
   {
     "original": "梅里達",
@@ -3021,10 +2292,7 @@
     "hkmc": "梅里達",
     "sg": "梅里达",
     "my": "梅里达",
-    "cates": [
-      "HIS",
-      "LOC"
-    ]
+    "cates": ["HIS", "LOC"]
   },
   {
     "original": "梅里雪山",
@@ -3033,10 +2301,7 @@
     "hkmc": "梅里雪山",
     "sg": "梅里雪山",
     "my": "梅里雪山",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅開二度",
@@ -3045,10 +2310,7 @@
     "hkmc": "梅開二度",
     "sg": "梅开二度",
     "my": "梅开二度",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梅開江",
@@ -3057,9 +2319,7 @@
     "hkmc": "梅開江",
     "sg": "梅开江",
     "my": "梅开江",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅關",
@@ -3068,9 +2328,7 @@
     "hkmc": "梅關",
     "sg": "梅关",
     "my": "梅关",
-    "cates": [
-      "LOC"
-    ]
+    "cates": ["LOC"]
   },
   {
     "original": "梅阡",
@@ -3079,9 +2337,7 @@
     "hkmc": "梅阡",
     "sg": "梅阡",
     "my": "梅阡",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梅陇站",
@@ -3090,10 +2346,7 @@
     "hkmc": "梅隴站",
     "sg": "梅陇站",
     "my": "梅陇站",
-    "cates": [
-      "LOC",
-      "TRA"
-    ]
+    "cates": ["LOC", "TRA"]
   },
   {
     "original": "梅陇路",
@@ -3102,10 +2355,7 @@
     "hkmc": "梅隴路",
     "sg": "梅陇路",
     "my": "梅陇路",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅隆国民",
@@ -3114,10 +2364,7 @@
     "hkmc": "梅隆國民",
     "sg": "梅隆国民",
     "my": "梅隆国民",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅隆國民",
@@ -3126,10 +2373,7 @@
     "hkmc": "梅隆國民",
     "sg": "梅隆国民",
     "my": "梅隆国民",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅陇站",
@@ -3138,10 +2382,7 @@
     "hkmc": "梅隴站",
     "sg": "梅陇站",
     "my": "梅陇站",
-    "cates": [
-      "LOC",
-      "TRA"
-    ]
+    "cates": ["LOC", "TRA"]
   },
   {
     "original": "梅陇路",
@@ -3150,10 +2391,7 @@
     "hkmc": "梅隴路",
     "sg": "梅陇路",
     "my": "梅陇路",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梅雨",
@@ -3162,10 +2400,7 @@
     "hkmc": "梅雨",
     "sg": "梅雨",
     "my": "梅雨",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅雨季",
@@ -3174,10 +2409,7 @@
     "hkmc": "梅雨季",
     "sg": "梅雨季",
     "my": "梅雨季",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅雨季節",
@@ -3186,10 +2418,7 @@
     "hkmc": "梅雨季節",
     "sg": "梅雨季节",
     "my": "梅雨季节",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅雨季节",
@@ -3198,10 +2427,7 @@
     "hkmc": "梅雨季節",
     "sg": "梅雨季节",
     "my": "梅雨季节",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅雨期",
@@ -3210,10 +2436,7 @@
     "hkmc": "梅雨期",
     "sg": "梅雨期",
     "my": "梅雨期",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梅雨潭",
@@ -3222,10 +2445,7 @@
     "hkmc": "梅雨潭",
     "sg": "梅雨潭",
     "my": "梅雨潭",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅雪争",
@@ -3234,10 +2454,7 @@
     "hkmc": "梅雪爭",
     "sg": "梅雪争",
     "my": "梅雪争",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梅雪爭",
@@ -3246,10 +2463,7 @@
     "hkmc": "梅雪爭",
     "sg": "梅雪争",
     "my": "梅雪争",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梅雪逢",
@@ -3258,10 +2472,7 @@
     "hkmc": "梅雪逢",
     "sg": "梅雪逢",
     "my": "梅雪逢",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梅順才",
@@ -3270,10 +2481,7 @@
     "hkmc": "梅順才",
     "sg": "梅顺才",
     "my": "梅顺才",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅顺才",
@@ -3282,10 +2490,7 @@
     "hkmc": "梅順才",
     "sg": "梅顺才",
     "my": "梅顺才",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅飾",
@@ -3294,10 +2499,7 @@
     "hkmc": "梅飾",
     "sg": "梅饰",
     "my": "梅饰",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅養正",
@@ -3306,10 +2508,7 @@
     "hkmc": "梅養正",
     "sg": "梅养正",
     "my": "梅养正",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS", "OTH"]
   },
   {
     "original": "梅饰",
@@ -3318,10 +2517,7 @@
     "hkmc": "梅飾",
     "sg": "梅饰",
     "my": "梅饰",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "梅香帮",
@@ -3330,10 +2526,7 @@
     "hkmc": "梅香幫",
     "sg": "梅香帮",
     "my": "梅香帮",
-    "cates": [
-      "HIS",
-      "ENT"
-    ]
+    "cates": ["HIS", "ENT"]
   },
   {
     "original": "梅香幫",
@@ -3342,10 +2535,7 @@
     "hkmc": "梅香幫",
     "sg": "梅香帮",
     "my": "梅香帮",
-    "cates": [
-      "HIS",
-      "ENT"
-    ]
+    "cates": ["HIS", "ENT"]
   },
   {
     "original": "梅香菊",
@@ -3354,10 +2544,7 @@
     "hkmc": "梅香菊",
     "sg": "梅香菊",
     "my": "梅香菊",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梅魯山",
@@ -3366,10 +2553,7 @@
     "hkmc": "梅魯山",
     "sg": "梅鲁山",
     "my": "梅鲁山",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅魯洛",
@@ -3378,10 +2562,7 @@
     "hkmc": "梅魯洛",
     "sg": "梅鲁洛",
     "my": "梅鲁洛",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅鲁山",
@@ -3390,10 +2571,7 @@
     "hkmc": "梅魯山",
     "sg": "梅鲁山",
     "my": "梅鲁山",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅鲁洛",
@@ -3402,10 +2580,7 @@
     "hkmc": "梅魯洛",
     "sg": "梅鲁洛",
     "my": "梅鲁洛",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "梅麗桑",
@@ -3414,10 +2589,7 @@
     "hkmc": "梅麗桑",
     "sg": "梅丽桑",
     "my": "梅丽桑",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅麗爾",
@@ -3426,10 +2598,7 @@
     "hkmc": "梅麗爾",
     "sg": "梅丽尔",
     "my": "梅丽尔",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅麗莎",
@@ -3438,10 +2607,7 @@
     "hkmc": "梅麗莎",
     "sg": "梅丽莎",
     "my": "梅丽莎",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梅龍鎮",
@@ -3450,10 +2616,7 @@
     "hkmc": "梅龍鎮",
     "sg": "梅龙镇",
     "my": "梅龙镇",
-    "cates": [
-      "LOC",
-      "ENT"
-    ]
+    "cates": ["LOC", "ENT"]
   },
   {
     "original": "梅龙镇",
@@ -3462,10 +2625,7 @@
     "hkmc": "梅龍鎮",
     "sg": "梅龙镇",
     "my": "梅龙镇",
-    "cates": [
-      "LOC",
-      "ENT"
-    ]
+    "cates": ["LOC", "ENT"]
   },
   {
     "original": "梆",
@@ -3474,10 +2634,7 @@
     "hkmc": "梆",
     "sg": "梆",
     "my": "梆",
-    "cates": [
-      "OTH",
-      "FOO"
-    ]
+    "cates": ["OTH", "FOO"]
   },
   {
     "original": "梆子",
@@ -3486,10 +2643,7 @@
     "hkmc": "梆子",
     "sg": "梆子",
     "my": "梆子",
-    "cates": [
-      "FOO",
-      "OTH"
-    ]
+    "cates": ["FOO", "OTH"]
   },
   {
     "original": "梆子腔",
@@ -3498,10 +2652,7 @@
     "hkmc": "梆子腔",
     "sg": "梆子腔",
     "my": "梆子腔",
-    "cates": [
-      "ENT",
-      "HIS"
-    ]
+    "cates": ["ENT", "HIS"]
   },
   {
     "original": "梆敌",
@@ -3510,10 +2661,7 @@
     "hkmc": "梆敵",
     "sg": "梆敌",
     "my": "梆敌",
-    "cates": [
-      "HIS",
-      "LAW"
-    ]
+    "cates": ["HIS", "LAW"]
   },
   {
     "original": "梆敵",
@@ -3522,10 +2670,7 @@
     "hkmc": "梆敵",
     "sg": "梆敌",
     "my": "梆敌",
-    "cates": [
-      "HIS",
-      "LAW"
-    ]
+    "cates": ["HIS", "LAW"]
   },
   {
     "original": "梆梆",
@@ -3534,10 +2679,7 @@
     "hkmc": "梆梆",
     "sg": "梆梆",
     "my": "梆梆",
-    "cates": [
-      "OTH",
-      "NET"
-    ]
+    "cates": ["OTH", "NET"]
   },
   {
     "original": "梆梆响",
@@ -3546,10 +2688,7 @@
     "hkmc": "梆梆響",
     "sg": "梆梆响",
     "my": "梆梆响",
-    "cates": [
-      "OTH",
-      "NET"
-    ]
+    "cates": ["OTH", "NET"]
   },
   {
     "original": "梆梆響",
@@ -3558,10 +2697,7 @@
     "hkmc": "梆梆響",
     "sg": "梆梆响",
     "my": "梆梆响",
-    "cates": [
-      "OTH",
-      "NET"
-    ]
+    "cates": ["OTH", "NET"]
   },
   {
     "original": "梆硬",
@@ -3570,10 +2706,7 @@
     "hkmc": "梆硬",
     "sg": "梆硬",
     "my": "梆硬",
-    "cates": [
-      "NET",
-      "OTH"
-    ]
+    "cates": ["NET", "OTH"]
   },
   {
     "original": "梆鈴",
@@ -3582,9 +2715,7 @@
     "hkmc": "梆鈴",
     "sg": "梆铃",
     "my": "梆铃",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梆铃",
@@ -3593,9 +2724,7 @@
     "hkmc": "梆鈴",
     "sg": "梆铃",
     "my": "梆铃",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梇",
@@ -3604,9 +2733,7 @@
     "hkmc": "梇",
     "sg": "梇",
     "my": "梇",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梈",
@@ -3615,9 +2742,7 @@
     "hkmc": "梈",
     "sg": "梈",
     "my": "梈",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梉",
@@ -3626,9 +2751,7 @@
     "hkmc": "梉",
     "sg": "梉",
     "my": "梉",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梊",
@@ -3637,9 +2760,7 @@
     "hkmc": "梊",
     "sg": "梊",
     "my": "梊",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梌",
@@ -3648,9 +2769,7 @@
     "hkmc": "梌",
     "sg": "梌",
     "my": "梌",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梍",
@@ -3659,9 +2778,7 @@
     "hkmc": "梍",
     "sg": "梍",
     "my": "梍",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梎",
@@ -3670,9 +2787,7 @@
     "hkmc": "梎",
     "sg": "梎",
     "my": "梎",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梏",
@@ -3681,9 +2796,7 @@
     "hkmc": "梏",
     "sg": "梏",
     "my": "梏",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梑",
@@ -3692,9 +2805,7 @@
     "hkmc": "梑",
     "sg": "梑",
     "my": "梑",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梓",
@@ -3703,10 +2814,7 @@
     "hkmc": "梓",
     "sg": "梓",
     "my": "梓",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梓匠",
@@ -3715,10 +2823,7 @@
     "hkmc": "梓匠",
     "sg": "梓匠",
     "my": "梓匠",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "梓官",
@@ -3727,10 +2832,7 @@
     "hkmc": "梓官",
     "sg": "梓官",
     "my": "梓官",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梓树",
@@ -3739,10 +2841,7 @@
     "hkmc": "梓樹",
     "sg": "梓树",
     "my": "梓树",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梓樹",
@@ -3751,10 +2850,7 @@
     "hkmc": "梓樹",
     "sg": "梓树",
     "my": "梓树",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "梓潼",
@@ -3763,10 +2859,7 @@
     "hkmc": "梓潼",
     "sg": "梓潼",
     "my": "梓潼",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梓潼县",
@@ -3775,10 +2868,7 @@
     "hkmc": "梓潼縣",
     "sg": "梓潼县",
     "my": "梓潼县",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梓潼縣",
@@ -3787,10 +2877,7 @@
     "hkmc": "梓潼縣",
     "sg": "梓潼县",
     "my": "梓潼县",
-    "cates": [
-      "LOC",
-      "OTH"
-    ]
+    "cates": ["LOC", "OTH"]
   },
   {
     "original": "梓里",
@@ -3799,10 +2886,7 @@
     "hkmc": "故鄉",
     "sg": "故乡",
     "my": "故乡",
-    "cates": [
-      "LOC",
-      "LIT"
-    ]
+    "cates": ["LOC", "LIT"]
   },
   {
     "original": "梔",
@@ -3811,10 +2895,7 @@
     "hkmc": "梔",
     "sg": "栀",
     "my": "栀",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梔子",
@@ -3823,10 +2904,7 @@
     "hkmc": "梔子",
     "sg": "栀子",
     "my": "栀子",
-    "cates": [
-      "FOO",
-      "NAT"
-    ]
+    "cates": ["FOO", "NAT"]
   },
   {
     "original": "梔子花",
@@ -3835,10 +2913,7 @@
     "hkmc": "梔子花",
     "sg": "栀子花",
     "my": "栀子花",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梔角",
@@ -3847,10 +2922,7 @@
     "hkmc": "梔角",
     "sg": "栀角",
     "my": "栀角",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梕",
@@ -3859,10 +2931,7 @@
     "hkmc": "梕",
     "sg": "梕",
     "my": "梕",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梖",
@@ -3871,10 +2940,7 @@
     "hkmc": "梖",
     "sg": "梖",
     "my": "梖",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梗",
@@ -3883,11 +2949,7 @@
     "hkmc": "梗",
     "sg": "梗",
     "my": "梗",
-    "cates": [
-      "NET",
-      "LIT",
-      "NAT"
-    ]
+    "cates": ["NET", "LIT", "NAT"]
   },
   {
     "original": "梗住",
@@ -3896,10 +2958,7 @@
     "hkmc": "卡住",
     "sg": "卡住",
     "my": "卡住",
-    "cates": [
-      "NET",
-      "OTH"
-    ]
+    "cates": ["NET", "OTH"]
   },
   {
     "original": "梗到",
@@ -3908,10 +2967,7 @@
     "hkmc": "卡住",
     "sg": "卡住",
     "my": "卡住",
-    "cates": [
-      "NET",
-      "OTH"
-    ]
+    "cates": ["NET", "OTH"]
   },
   {
     "original": "梗化",
@@ -3920,10 +2976,7 @@
     "hkmc": "梗化",
     "sg": "梗化",
     "my": "梗化",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "梗塞",
@@ -3932,10 +2985,7 @@
     "hkmc": "梗塞",
     "sg": "梗塞",
     "my": "梗塞",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "梗概",
@@ -3944,10 +2994,7 @@
     "hkmc": "梗概",
     "sg": "梗概",
     "my": "梗概",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梗死",
@@ -3956,10 +3003,7 @@
     "hkmc": "梗死",
     "sg": "梗死",
     "my": "梗死",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "梗泛萍漂",
@@ -3968,9 +3012,7 @@
     "hkmc": "梗泛萍漂",
     "sg": "梗泛萍漂",
     "my": "梗泛萍漂",
-    "cates": [
-      "NAT"
-    ]
+    "cates": ["NAT"]
   },
   {
     "original": "梗泛萍飄",
@@ -3979,9 +3021,7 @@
     "hkmc": "梗泛萍飄",
     "sg": "梗泛萍飘",
     "my": "梗泛萍飘",
-    "cates": [
-      "NAT"
-    ]
+    "cates": ["NAT"]
   },
   {
     "original": "梗泛萍飘",
@@ -3990,9 +3030,7 @@
     "hkmc": "梗泛萍飄",
     "sg": "梗泛萍飘",
     "my": "梗泛萍飘",
-    "cates": [
-      "NAT"
-    ]
+    "cates": ["NAT"]
   },
   {
     "original": "梗直",
@@ -4001,10 +3039,7 @@
     "hkmc": "正直",
     "sg": "正直",
     "my": "正直",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梗着",
@@ -4013,10 +3048,7 @@
     "hkmc": "梗著",
     "sg": "梗着",
     "my": "梗着",
-    "cates": [
-      "NET",
-      "OTH"
-    ]
+    "cates": ["NET", "OTH"]
   },
   {
     "original": "梗節",
@@ -4025,10 +3057,7 @@
     "hkmc": "梗節",
     "sg": "梗节",
     "my": "梗节",
-    "cates": [
-      "NAT",
-      "FOO"
-    ]
+    "cates": ["NAT", "FOO"]
   },
   {
     "original": "梗节",
@@ -4037,10 +3066,7 @@
     "hkmc": "梗節",
     "sg": "梗节",
     "my": "梗节",
-    "cates": [
-      "NET",
-      "LIT"
-    ]
+    "cates": ["NET", "LIT"]
   },
   {
     "original": "梗跡萍蹤",
@@ -4049,10 +3075,7 @@
     "hkmc": "梗跡萍蹤",
     "sg": "梗迹萍踪",
     "my": "梗迹萍踪",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梗迹萍踪",
@@ -4061,10 +3084,7 @@
     "hkmc": "梗跡萍蹤",
     "sg": "梗迹萍踪",
     "my": "梗迹萍踪",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梗通草",
@@ -4073,10 +3093,7 @@
     "hkmc": "梗通草",
     "sg": "梗通草",
     "my": "梗通草",
-    "cates": [
-      "NAT",
-      "MED"
-    ]
+    "cates": ["NAT", "MED"]
   },
   {
     "original": "梗阻",
@@ -4085,10 +3102,7 @@
     "hkmc": "梗阻",
     "sg": "梗阻",
     "my": "梗阻",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梗阻性",
@@ -4097,10 +3111,7 @@
     "hkmc": "梗阻性",
     "sg": "梗阻性",
     "my": "梗阻性",
-    "cates": [
-      "MED",
-      "OTH"
-    ]
+    "cates": ["MED", "OTH"]
   },
   {
     "original": "梗頑不化",
@@ -4109,10 +3120,7 @@
     "hkmc": "梗頑不化",
     "sg": "梗顽不化",
     "my": "梗顽不化",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梗顽不化",
@@ -4121,10 +3129,7 @@
     "hkmc": "梗頑不化",
     "sg": "梗顽不化",
     "my": "梗顽不化",
-    "cates": [
-      "LIT",
-      "NET"
-    ]
+    "cates": ["LIT", "NET"]
   },
   {
     "original": "梘",
@@ -4133,10 +3138,7 @@
     "hkmc": "梘",
     "sg": "梘",
     "my": "梘",
-    "cates": [
-      "OTH",
-      "FOO"
-    ]
+    "cates": ["OTH", "FOO"]
   },
   {
     "original": "梘",
@@ -4145,10 +3147,7 @@
     "hkmc": "梘",
     "sg": "梘",
     "my": "梘",
-    "cates": [
-      "OTH",
-      "FOO"
-    ]
+    "cates": ["OTH", "FOO"]
   },
   {
     "original": "梙",
@@ -4157,9 +3156,7 @@
     "hkmc": "梙",
     "sg": "梙",
     "my": "梙",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梜",
@@ -4168,9 +3165,7 @@
     "hkmc": "梜",
     "sg": "梜",
     "my": "梜",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條",
@@ -4179,9 +3174,7 @@
     "hkmc": "條",
     "sg": "条",
     "my": "条",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條",
@@ -4190,9 +3183,7 @@
     "hkmc": "條",
     "sg": "条",
     "my": "条",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條三窩四",
@@ -4201,10 +3192,7 @@
     "hkmc": "條三窩四",
     "sg": "条三窝四",
     "my": "条三窝四",
-    "cates": [
-      "NET",
-      "LIT"
-    ]
+    "cates": ["NET", "LIT"]
   },
   {
     "original": "條令",
@@ -4213,10 +3201,7 @@
     "hkmc": "條令",
     "sg": "条令",
     "my": "条令",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條件",
@@ -4225,10 +3210,7 @@
     "hkmc": "條件",
     "sg": "条件",
     "my": "条件",
-    "cates": [
-      "OTH",
-      "LAW"
-    ]
+    "cates": ["OTH", "LAW"]
   },
   {
     "original": "條件優惠",
@@ -4237,10 +3219,7 @@
     "hkmc": "條件優惠",
     "sg": "条件优惠",
     "my": "条件优惠",
-    "cates": [
-      "ECO",
-      "LAW"
-    ]
+    "cates": ["ECO", "LAW"]
   },
   {
     "original": "條件刺激",
@@ -4249,10 +3228,7 @@
     "hkmc": "條件刺激",
     "sg": "条件刺激",
     "my": "条件刺激",
-    "cates": [
-      "MED",
-      "DIG"
-    ]
+    "cates": ["MED", "DIG"]
   },
   {
     "original": "條件反射",
@@ -4261,10 +3237,7 @@
     "hkmc": "條件反射",
     "sg": "条件反射",
     "my": "条件反射",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "條件句",
@@ -4273,10 +3246,7 @@
     "hkmc": "條件句",
     "sg": "条件句",
     "my": "条件句",
-    "cates": [
-      "LAW",
-      "DIG"
-    ]
+    "cates": ["LAW", "DIG"]
   },
   {
     "original": "條件同步",
@@ -4285,10 +3255,7 @@
     "hkmc": "條件同步",
     "sg": "条件同步",
     "my": "条件同步",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條件性",
@@ -4297,10 +3264,7 @@
     "hkmc": "條件性",
     "sg": "条件性",
     "my": "条件性",
-    "cates": [
-      "OTH",
-      "DIG"
-    ]
+    "cates": ["OTH", "DIG"]
   },
   {
     "original": "條件成熟",
@@ -4309,10 +3273,7 @@
     "hkmc": "條件成熟",
     "sg": "条件成熟",
     "my": "条件成熟",
-    "cates": [
-      "OTH",
-      "LAW"
-    ]
+    "cates": ["OTH", "LAW"]
   },
   {
     "original": "條件收斂",
@@ -4321,10 +3282,7 @@
     "hkmc": "條件收斂",
     "sg": "条件收敛",
     "my": "条件收敛",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條件期望",
@@ -4333,10 +3291,7 @@
     "hkmc": "條件期望",
     "sg": "条件期望",
     "my": "条件期望",
-    "cates": [
-      "OTH",
-      "DIG"
-    ]
+    "cates": ["OTH", "DIG"]
   },
   {
     "original": "條件極值",
@@ -4345,10 +3300,7 @@
     "hkmc": "條件極值",
     "sg": "条件极值",
     "my": "条件极值",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條件者",
@@ -4357,10 +3309,7 @@
     "hkmc": "條件者",
     "sg": "条件者",
     "my": "条件者",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條件邏輯",
@@ -4369,10 +3318,7 @@
     "hkmc": "條件邏輯",
     "sg": "条件逻辑",
     "my": "条件逻辑",
-    "cates": [
-      "DIG",
-      "LAW"
-    ]
+    "cates": ["DIG", "LAW"]
   },
   {
     "original": "條例",
@@ -4381,10 +3327,7 @@
     "hkmc": "條例",
     "sg": "条例",
     "my": "条例",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條修葉貫",
@@ -4393,9 +3336,7 @@
     "hkmc": "條修葉貫",
     "sg": "条修叶贯",
     "my": "条修叶贯",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條入葉貫",
@@ -4404,9 +3345,7 @@
     "hkmc": "條入葉貫",
     "sg": "条入叶贯",
     "my": "条入叶贯",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條几",
@@ -4415,9 +3354,7 @@
     "hkmc": "條几",
     "sg": "条几",
     "my": "条几",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條凳",
@@ -4426,9 +3363,7 @@
     "hkmc": "條凳",
     "sg": "条凳",
     "my": "条凳",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條分節解",
@@ -4437,9 +3372,7 @@
     "hkmc": "條分節解",
     "sg": "条分节解",
     "my": "条分节解",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條分縷析",
@@ -4448,10 +3381,7 @@
     "hkmc": "條分縷析",
     "sg": "条分缕析",
     "my": "条分缕析",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "條列",
@@ -4460,10 +3390,7 @@
     "hkmc": "條列",
     "sg": "条列",
     "my": "条列",
-    "cates": [
-      "OTH",
-      "DIG"
-    ]
+    "cates": ["OTH", "DIG"]
   },
   {
     "original": "條型",
@@ -4472,10 +3399,7 @@
     "hkmc": "條型",
     "sg": "条型",
     "my": "条型",
-    "cates": [
-      "OTH",
-      "DIG"
-    ]
+    "cates": ["OTH", "DIG"]
   },
   {
     "original": "條塊",
@@ -4484,10 +3408,7 @@
     "hkmc": "條塊",
     "sg": "条块",
     "my": "条块",
-    "cates": [
-      "OTH",
-      "DIG"
-    ]
+    "cates": ["OTH", "DIG"]
   },
   {
     "original": "條塊分割",
@@ -4496,10 +3417,7 @@
     "hkmc": "條塊分割",
     "sg": "条块分割",
     "my": "条块分割",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條塊結合",
@@ -4508,10 +3426,7 @@
     "hkmc": "條塊結合",
     "sg": "条块结合",
     "my": "条块结合",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "條子",
@@ -4520,10 +3435,7 @@
     "hkmc": "條子",
     "sg": "条子",
     "my": "条子",
-    "cates": [
-      "FOO",
-      "OTH"
-    ]
+    "cates": ["FOO", "OTH"]
   },
   {
     "original": "條屏",
@@ -4532,10 +3444,7 @@
     "hkmc": "條屏",
     "sg": "条屏",
     "my": "条屏",
-    "cates": [
-      "DIG",
-      "IND"
-    ]
+    "cates": ["DIG", "IND"]
   },
   {
     "original": "條山",
@@ -4544,10 +3453,7 @@
     "hkmc": "條山",
     "sg": "条山",
     "my": "条山",
-    "cates": [
-      "NAT",
-      "LOC"
-    ]
+    "cates": ["NAT", "LOC"]
   },
   {
     "original": "條島",
@@ -4556,10 +3462,7 @@
     "hkmc": "條島",
     "sg": "条岛",
     "my": "条岛",
-    "cates": [
-      "LOC",
-      "NAT"
-    ]
+    "cates": ["LOC", "NAT"]
   },
   {
     "original": "條帶",
@@ -4568,10 +3471,7 @@
     "hkmc": "條帶",
     "sg": "条带",
     "my": "条带",
-    "cates": [
-      "NAT",
-      "IND"
-    ]
+    "cates": ["NAT", "IND"]
   },
   {
     "original": "條帶加寬",
@@ -4580,10 +3480,7 @@
     "hkmc": "條帶加寬",
     "sg": "条带加宽",
     "my": "条带加宽",
-    "cates": [
-      "IND",
-      "NAT"
-    ]
+    "cates": ["IND", "NAT"]
   },
   {
     "original": "條幅",
@@ -4592,10 +3489,7 @@
     "hkmc": "條幅",
     "sg": "条幅",
     "my": "条幅",
-    "cates": [
-      "OTH",
-      "IND"
-    ]
+    "cates": ["OTH", "IND"]
   },
   {
     "original": "條幅機",
@@ -4604,10 +3498,7 @@
     "hkmc": "條幅機",
     "sg": "条幅机",
     "my": "条幅机",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "條幹",
@@ -4616,10 +3507,7 @@
     "hkmc": "條幹",
     "sg": "条干",
     "my": "条干",
-    "cates": [
-      "NAT",
-      "IND"
-    ]
+    "cates": ["NAT", "IND"]
   },
   {
     "original": "條形",
@@ -4628,10 +3516,7 @@
     "hkmc": "條形",
     "sg": "条形",
     "my": "条形",
-    "cates": [
-      "OTH",
-      "NAT"
-    ]
+    "cates": ["OTH", "NAT"]
   },
   {
     "original": "條形圖",
@@ -4640,10 +3525,7 @@
     "hkmc": "長條圖",
     "sg": "条形图",
     "my": "条形图",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條形碼",
@@ -4652,10 +3534,7 @@
     "hkmc": "條碼",
     "sg": "条形码",
     "my": "条形码",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條播",
@@ -4664,10 +3543,7 @@
     "hkmc": "條播",
     "sg": "条播",
     "my": "条播",
-    "cates": [
-      "IND",
-      "NAT"
-    ]
+    "cates": ["IND", "NAT"]
   },
   {
     "original": "條支",
@@ -4676,10 +3552,7 @@
     "hkmc": "條支",
     "sg": "条支",
     "my": "条支",
-    "cates": [
-      "FOO",
-      "OTH"
-    ]
+    "cates": ["FOO", "OTH"]
   },
   {
     "original": "條數",
@@ -4688,9 +3561,7 @@
     "hkmc": "條數",
     "sg": "条数",
     "my": "条数",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條文",
@@ -4699,10 +3570,7 @@
     "hkmc": "條文",
     "sg": "条文",
     "my": "条文",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條文主義",
@@ -4711,10 +3579,7 @@
     "hkmc": "條文主義",
     "sg": "条文主义",
     "my": "条文主义",
-    "cates": [
-      "LAW",
-      "HIS"
-    ]
+    "cates": ["LAW", "HIS"]
   },
   {
     "original": "條斑",
@@ -4723,10 +3588,7 @@
     "hkmc": "條斑",
     "sg": "条斑",
     "my": "条斑",
-    "cates": [
-      "NAT",
-      "MED"
-    ]
+    "cates": ["NAT", "MED"]
   },
   {
     "original": "條施",
@@ -4735,10 +3597,7 @@
     "hkmc": "條施",
     "sg": "条施",
     "my": "条施",
-    "cates": [
-      "IND",
-      "NAT"
-    ]
+    "cates": ["IND", "NAT"]
   },
   {
     "original": "條暢",
@@ -4747,9 +3606,7 @@
     "hkmc": "暢順",
     "sg": "通畅",
     "my": "通畅",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條案",
@@ -4758,10 +3615,7 @@
     "hkmc": "條案",
     "sg": "条案",
     "my": "条案",
-    "cates": [
-      "OTH",
-      "HIS"
-    ]
+    "cates": ["OTH", "HIS"]
   },
   {
     "original": "條桌",
@@ -4770,9 +3624,7 @@
     "hkmc": "條桌",
     "sg": "条桌",
     "my": "条桌",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條條",
@@ -4781,9 +3633,7 @@
     "hkmc": "條條",
     "sg": "条条",
     "my": "条条",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條條塊塊",
@@ -4792,9 +3642,7 @@
     "hkmc": "條條塊塊",
     "sg": "条条块块",
     "my": "条条块块",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條條大路通羅馬",
@@ -4803,10 +3651,7 @@
     "hkmc": "條條大路通羅馬",
     "sg": "条条大路通罗马",
     "my": "条条大路通罗马",
-    "cates": [
-      "LIT",
-      "LOC"
-    ]
+    "cates": ["LIT", "LOC"]
   },
   {
     "original": "條條框框",
@@ -4815,10 +3660,7 @@
     "hkmc": "條條框框",
     "sg": "条条框框",
     "my": "条条框框",
-    "cates": [
-      "NET",
-      "OTH"
-    ]
+    "cates": ["NET", "OTH"]
   },
   {
     "original": "條款",
@@ -4827,10 +3669,7 @@
     "hkmc": "條款",
     "sg": "条款",
     "my": "条款",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條狀",
@@ -4839,10 +3678,7 @@
     "hkmc": "條狀",
     "sg": "条状",
     "my": "条状",
-    "cates": [
-      "OTH",
-      "NAT"
-    ]
+    "cates": ["OTH", "NAT"]
   },
   {
     "original": "條理",
@@ -4851,9 +3687,7 @@
     "hkmc": "條理",
     "sg": "条理",
     "my": "条理",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條理井然",
@@ -4862,10 +3696,7 @@
     "hkmc": "條理井然",
     "sg": "条理井然",
     "my": "条理井然",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "條理分明",
@@ -4874,10 +3705,7 @@
     "hkmc": "條理分明",
     "sg": "条理分明",
     "my": "条理分明",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "條理化",
@@ -4886,9 +3714,7 @@
     "hkmc": "條理化",
     "sg": "条理化",
     "my": "条理化",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條理性",
@@ -4897,9 +3723,7 @@
     "hkmc": "條理性",
     "sg": "条理性",
     "my": "条理性",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條理清晰",
@@ -4908,10 +3732,7 @@
     "hkmc": "條理清晰",
     "sg": "条理清晰",
     "my": "条理清晰",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "條理清楚",
@@ -4920,10 +3741,7 @@
     "hkmc": "條理清楚",
     "sg": "条理清楚",
     "my": "条理清楚",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "條理素",
@@ -4932,9 +3750,7 @@
     "hkmc": "條理素",
     "sg": "条理素",
     "my": "条理素",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條田",
@@ -4943,10 +3759,7 @@
     "hkmc": "條田",
     "sg": "条田",
     "my": "条田",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "條痕",
@@ -4955,10 +3768,7 @@
     "hkmc": "條痕",
     "sg": "条痕",
     "my": "条痕",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "條目",
@@ -4967,9 +3777,7 @@
     "hkmc": "條目",
     "sg": "条目",
     "my": "条目",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條石",
@@ -4978,10 +3786,7 @@
     "hkmc": "條石",
     "sg": "条石",
     "my": "条石",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "條碼",
@@ -4990,10 +3795,7 @@
     "hkmc": "條碼",
     "sg": "条码",
     "my": "条码",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條碼卡",
@@ -5002,10 +3804,7 @@
     "hkmc": "條碼卡",
     "sg": "条码卡",
     "my": "条码卡",
-    "cates": [
-      "DIG",
-      "OTH"
-    ]
+    "cates": ["DIG", "OTH"]
   },
   {
     "original": "條碼機",
@@ -5014,10 +3813,7 @@
     "hkmc": "條碼機",
     "sg": "条码机",
     "my": "条码机",
-    "cates": [
-      "DIG",
-      "IND"
-    ]
+    "cates": ["DIG", "IND"]
   },
   {
     "original": "條約",
@@ -5026,10 +3822,7 @@
     "hkmc": "條約",
     "sg": "条约",
     "my": "条约",
-    "cates": [
-      "LAW",
-      "HIS"
-    ]
+    "cates": ["LAW", "HIS"]
   },
   {
     "original": "條約國",
@@ -5038,10 +3831,7 @@
     "hkmc": "條約國",
     "sg": "条约国",
     "my": "条约国",
-    "cates": [
-      "LAW",
-      "HIS"
-    ]
+    "cates": ["LAW", "HIS"]
   },
   {
     "original": "條約法",
@@ -5050,9 +3840,7 @@
     "hkmc": "條約法",
     "sg": "条约法",
     "my": "条约法",
-    "cates": [
-      "LAW"
-    ]
+    "cates": ["LAW"]
   },
   {
     "original": "條紋",
@@ -5061,10 +3849,7 @@
     "hkmc": "條紋",
     "sg": "条纹",
     "my": "条纹",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   },
   {
     "original": "條紋布",
@@ -5073,9 +3858,7 @@
     "hkmc": "條紋布",
     "sg": "条纹布",
     "my": "条纹布",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條紋木材",
@@ -5084,10 +3867,7 @@
     "hkmc": "條紋木材",
     "sg": "条纹木材",
     "my": "条纹木材",
-    "cates": [
-      "IND",
-      "OTH"
-    ]
+    "cates": ["IND", "OTH"]
   },
   {
     "original": "條紋病",
@@ -5096,10 +3876,7 @@
     "hkmc": "條紋病",
     "sg": "条纹病",
     "my": "条纹病",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "條紋紙",
@@ -5108,9 +3885,7 @@
     "hkmc": "條紋紙",
     "sg": "条纹纸",
     "my": "条纹纸",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條絨",
@@ -5119,9 +3894,7 @@
     "hkmc": "條絨",
     "sg": "条绒",
     "my": "条绒",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條規",
@@ -5130,10 +3903,7 @@
     "hkmc": "條規",
     "sg": "条规",
     "my": "条规",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條解支劈",
@@ -5142,9 +3912,7 @@
     "hkmc": "條解支劈",
     "sg": "条解支劈",
     "my": "条解支劈",
-    "cates": [
-      "NAT"
-    ]
+    "cates": ["NAT"]
   },
   {
     "original": "條貫",
@@ -5153,9 +3921,7 @@
     "hkmc": "條貫",
     "sg": "条贯",
     "my": "条贯",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條貫部分",
@@ -5164,9 +3930,7 @@
     "hkmc": "條貫部分",
     "sg": "条贯部分",
     "my": "条贯部分",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條達",
@@ -5175,9 +3939,7 @@
     "hkmc": "條達",
     "sg": "条达",
     "my": "条达",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條鋼",
@@ -5186,9 +3948,7 @@
     "hkmc": "條鋼",
     "sg": "条钢",
     "my": "条钢",
-    "cates": [
-      "IND"
-    ]
+    "cates": ["IND"]
   },
   {
     "original": "條鏽病",
@@ -5197,10 +3957,7 @@
     "hkmc": "條鏽病",
     "sg": "条锈病",
     "my": "条锈病",
-    "cates": [
-      "MED",
-      "NAT"
-    ]
+    "cates": ["MED", "NAT"]
   },
   {
     "original": "條陳",
@@ -5209,10 +3966,7 @@
     "hkmc": "條陳",
     "sg": "条陈",
     "my": "条陈",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條項",
@@ -5221,10 +3975,7 @@
     "hkmc": "條項",
     "sg": "条项",
     "my": "条项",
-    "cates": [
-      "LAW",
-      "OTH"
-    ]
+    "cates": ["LAW", "OTH"]
   },
   {
     "original": "條頓人",
@@ -5233,10 +3984,7 @@
     "hkmc": "條頓人",
     "sg": "条顿人",
     "my": "条顿人",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "條頓族",
@@ -5245,10 +3993,7 @@
     "hkmc": "條頓族",
     "sg": "条顿族",
     "my": "条顿族",
-    "cates": [
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "條頭",
@@ -5257,9 +4002,7 @@
     "hkmc": "條頭",
     "sg": "条头",
     "my": "条头",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "條魚",
@@ -5268,10 +4011,7 @@
     "hkmc": "條魚",
     "sg": "条鱼",
     "my": "条鱼",
-    "cates": [
-      "FOO",
-      "NAT"
-    ]
+    "cates": ["FOO", "NAT"]
   },
   {
     "original": "條鰨",
@@ -5280,10 +4020,7 @@
     "hkmc": "條鰨",
     "sg": "条鲻",
     "my": "条鲻",
-    "cates": [
-      "FOO",
-      "NAT"
-    ]
+    "cates": ["FOO", "NAT"]
   },
   {
     "original": "梟",
@@ -5292,11 +4029,7 @@
     "hkmc": "梟",
     "sg": "枭",
     "my": "枭",
-    "cates": [
-      "NAT",
-      "HIS",
-      "OTH"
-    ]
+    "cates": ["NAT", "HIS", "OTH"]
   },
   {
     "original": "梟俊禽敵",
@@ -5305,10 +4038,7 @@
     "hkmc": "梟俊禽敵",
     "sg": "枭俊禽敌",
     "my": "枭俊禽敌",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梟匪",
@@ -5317,10 +4047,7 @@
     "hkmc": "梟匪",
     "sg": "枭匪",
     "my": "枭匪",
-    "cates": [
-      "HIS",
-      "LAW"
-    ]
+    "cates": ["HIS", "LAW"]
   },
   {
     "original": "梟將",
@@ -5329,9 +4056,7 @@
     "hkmc": "梟將",
     "sg": "枭将",
     "my": "枭将",
-    "cates": [
-      "HIS"
-    ]
+    "cates": ["HIS"]
   },
   {
     "original": "梟心鶴貌",
@@ -5340,10 +4065,7 @@
     "hkmc": "梟心鶴貌",
     "sg": "枭心鹤貌",
     "my": "枭心鹤貌",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梟蛇鬼怪",
@@ -5352,10 +4074,7 @@
     "hkmc": "梟蛇鬼怪",
     "sg": "枭蛇鬼怪",
     "my": "枭蛇鬼怪",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梟視狼顧",
@@ -5364,10 +4083,7 @@
     "hkmc": "梟視狼顧",
     "sg": "枭视狼顾",
     "my": "枭视狼顾",
-    "cates": [
-      "LIT",
-      "OTH"
-    ]
+    "cates": ["LIT", "OTH"]
   },
   {
     "original": "梟雄",
@@ -5376,10 +4092,7 @@
     "hkmc": "梟雄",
     "sg": "枭雄",
     "my": "枭雄",
-    "cates": [
-      "HIS",
-      "LIT"
-    ]
+    "cates": ["HIS", "LIT"]
   },
   {
     "original": "梟首",
@@ -5388,10 +4101,7 @@
     "hkmc": "梟首",
     "sg": "枭首",
     "my": "枭首",
-    "cates": [
-      "HIS",
-      "LAW"
-    ]
+    "cates": ["HIS", "LAW"]
   },
   {
     "original": "梟首示衆",
@@ -5400,11 +4110,7 @@
     "hkmc": "梟首示眾",
     "sg": "枭首示众",
     "my": "枭首示众",
-    "cates": [
-      "HIS",
-      "LAW",
-      "LIT"
-    ]
+    "cates": ["HIS", "LAW", "LIT"]
   },
   {
     "original": "梠",
@@ -5413,9 +4119,7 @@
     "hkmc": "梠",
     "sg": "梠",
     "my": "梠",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梡",
@@ -5424,9 +4128,7 @@
     "hkmc": "梡",
     "sg": "梡",
     "my": "梡",
-    "cates": [
-      "OTH"
-    ]
+    "cates": ["OTH"]
   },
   {
     "original": "梢",
@@ -5435,9 +4137,6 @@
     "hkmc": "梢",
     "sg": "梢",
     "my": "梢",
-    "cates": [
-      "NAT",
-      "OTH"
-    ]
+    "cates": ["NAT", "OTH"]
   }
 ]
